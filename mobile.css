@@ -4,6 +4,11 @@
         height: 90px;
     }
 
+    .display-items{
+        font-size: 45px;
+        padding: 20px 20px;
+    }
+
     .button-section{
         gap: 5px;
         padding: 10px;
