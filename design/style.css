@@ -35,7 +35,7 @@
     height: 100vh;
 }
 
-.screen{
+.screen {
     background-color: #181F32;
     border-radius: 15px;
     width: 496px;
@@ -65,88 +65,88 @@
     border-radius: 13px;
 }
 
-.top-1{
+.top-1 {
     display: flex;
     gap: 25px;
     background-color: var(--theme-1-background);
 }
 
-.top-1 button{
+.top-1 button {
     color: var(----theme-1-key-font-color);
     font-size: var(--main-key-font-size);
     font-weight: 600;
 }
 
-.top-1 >:last-child {
+.top-1>:last-child {
     background-color: #657399;
     color: white;
 }
 
-.top-2{
+.top-2 {
     background-color: var(--theme-1-background);
     display: flex;
     gap: 25px;
 }
 
-.top-2 button{
+.top-2 button {
     color: var(----theme-1-key-font-color);
     font-size: var(--main-key-font-size);
     font-weight: 600;
 }
 
-.top-3{
+.top-3 {
     background-color: var(--theme-1-background);
     display: flex;
     gap: 25px;
 }
 
-.top-3 button{
+.top-3 button {
     color: var(----theme-1-key-font-color);
     font-size: var(--main-key-font-size);
     font-weight: 600;
 }
 
-.top-4{
+.top-4 {
     background-color: var(--theme-1-background);
     display: flex;
     gap: 25px;
 }
 
-.top-4 button{
+.top-4 button {
     color: var(----theme-1-key-font-color);
     font-size: var(--main-key-font-size);
     font-weight: 600;
 }
 
-.top-5{
+.top-5 {
     background-color: var(--theme-1-background);
     display: flex;
     gap: 25px;
 }
 
-.top-5 button{
+.top-5 button {
     color: var(----theme-1-key-font-color);
     font-size: var(--main-key-font-size);
     font-weight: 600;
     width: 205px;
 }
 
-.top-5 > :first-child{
+.top-5> :first-child {
     background-color: #657399;
     color: white;
 }
 
-.top-5 > :last-child{
+.top-5> :last-child {
     background-color: #D03F31;
     color: white;
 }
 
-.screen{
+.screen {
     position: relative;
     overflow: hidden;
 }
 
-.display-items{
+.display-items {
     float: right;
     padding: 10px 10px;
     font-size: 80px;
