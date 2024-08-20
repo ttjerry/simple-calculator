@@ -4,7 +4,7 @@ let screeni = document.querySelector('.display-items');
 //loop through the buttons array and find out which is getting clicked, display on the screen
 let buttons = document.querySelectorAll('button');
 
-buttons.forEach((button) => {
+buttons.forEach( (button) => {
     button.addEventListener('click', () => {
         screeni.innerHTML += button.value;
     })
@@ -13,6 +13,10 @@ buttons.forEach((button) => {
 let delete2 =()=>{
     let text = screeni.innerHTML;
     screeni.innerHTML = text.slice(0, -1);
+}
+
+let reset =()=>{
+    screeni.innerHTML = '';
 }
 
 let calculate = () => {
