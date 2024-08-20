@@ -65,6 +65,10 @@
     border-radius: 13px;
 }
 
+.button-section button:active{
+    background-color: #FEFEFF;
+}
+
 .top-1 {
     display: flex;
     gap: 25px;
@@ -136,9 +140,17 @@
     color: white;
 }
 
+.top-5> :first-child:active{
+    background-color: #A3B3E0;
+}
+
 .top-5> :last-child {
     background-color: #D03F31;
     color: white;
+}
+
+.top-5> :last-child:active{
+    background-color: #F86C5A;
 }
 
 .screen {
