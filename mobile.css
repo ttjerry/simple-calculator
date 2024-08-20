@@ -1,36 +1,56 @@
 @media screen and (max-width:400px){
     .screen{
-        width: 355px;
+        width: 265px;
     }
 
     .button-section{
-        gap: 10px;
-        padding: 15px;
+        gap: 5px;
+        padding: 10px;
     }
 
     .button-section button{
-        width: 65px;
-        height: 50px;
+        width: 55px;
+        height: 45px;
+    }
+
+    .top-1{
+        gap:10px;
     }
 
     .top-1 button{
         font-size: 20px;
         font-weight: 900;
     }
+
+    .top-2{
+        gap: 10px;
+    }
     .top-2 button{
         font-size: 20px;
         font-weight: 900;
+    }
+
+    .top-3{
+        gap: 10px;
     }
     .top-3 button{
         font-size: 20px;
         font-weight: 900;
     }
+
+    .top-4{
+        gap: 10px;
+    }
     .top-4 button{
         font-size: 20px;
         font-weight: 900;
     }
+
+    .top-5{
+        gap: 10px;
+    }
     .top-5 button{
-        width: 155px;
+        width: 120px;
         font-size: 20px;
         font-weight: 900;
     }
