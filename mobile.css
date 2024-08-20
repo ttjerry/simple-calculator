@@ -1,0 +1,37 @@
+@media screen and (max-width:400px){
+    .screen{
+        width: 355px;
+    }
+
+    .button-section{
+        gap: 10px;
+        padding: 15px;
+    }
+
+    .button-section button{
+        width: 65px;
+        height: 50px;
+    }
+
+    .top-1 button{
+        font-size: 20px;
+        font-weight: 900;
+    }
+    .top-2 button{
+        font-size: 20px;
+        font-weight: 900;
+    }
+    .top-3 button{
+        font-size: 20px;
+        font-weight: 900;
+    }
+    .top-4 button{
+        font-size: 20px;
+        font-weight: 900;
+    }
+    .top-5 button{
+        width: 155px;
+        font-size: 20px;
+        font-weight: 900;
+    }
+}
