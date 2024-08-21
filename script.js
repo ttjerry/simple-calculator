@@ -8,7 +8,7 @@ buttons.forEach((button) => {
 
     button.addEventListener('click', () => {
         screeni.innerHTML += button.value;
-    })
+    }) 
 
 });
 
